@@ -14,8 +14,8 @@ Educational game for children aged 9-13 on the science behind Eczema as well as 
 ###### Made with [![](https://www.google.com/s2/favicons?domain=www.stencyl.com)](https://www.stencyl.com/) [Stencyl](https://www.stencyl.com/)
 
 ## Project members
-Aidan Acquah
-Anisha Malde
-Mohima Ahmed
-Nasreen Abdulrazak
+Aidan Acquah  
+Anisha Malde  
+Mohima Ahmed  
+Nasreen Abdulrazak  
 Yomna Genina
