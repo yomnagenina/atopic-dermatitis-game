@@ -5,9 +5,9 @@ Educational game for children aged 9-13 on the science behind Eczema as well as 
 
 ## Play the Game
 
-#### [👩‍🏫 Game Tutorial](https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/yomnagenina/atopic-dermatitis-game/raw/main/documents/Tutorial-Presentation.pptx)
+[👩‍🏫 Game Tutorial](https://view.officeapps.live.com/op/embed.aspx?src=https://github.com/yomnagenina/atopic-dermatitis-game/raw/main/documents/Tutorial-Presentation.pptx)
 
-#### [▶ Play!](https://yomnagenina.github.io/atopic-dermatitis-game/)
+[▶ Play!](https://yomnagenina.github.io/atopic-dermatitis-game/)
 
 [<img width="50%" src="https://user-images.githubusercontent.com/95329530/144184651-48f6922e-a73d-4f7b-aac6-eecaf14c8d01.png"/>](https://yomnagenina.github.io/atopic-dermatitis-game/)
 
